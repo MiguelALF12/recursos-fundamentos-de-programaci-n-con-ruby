@@ -26,7 +26,7 @@ end
 
 for index in 0..numbers.length-1
   if numbers[index] != 0
-    puts numbers[index]
+    print(numbers[index], " ")
   end
 end
 
