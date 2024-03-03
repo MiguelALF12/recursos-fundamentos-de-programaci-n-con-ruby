@@ -1,19 +1,16 @@
-# recursos-fundamentos-de-programacion-con-ruby
-Aquí se almacena todo el código desarrollado en el texto "Fundamentos de programación con Ruby".
+# Fundamentos de programacion con Ruby
 
-El repositorio se compone de 7 directorios correspondientes a cada capitulo del texto, cada uno contiene un arhcivo .rb
-que almacena los codigos trabajados en dicho capitulo.
+This repository stores all the code developed in the text "Programming Fundamentals with Ruby."
 
-La estructura en la cual se organiza cada archivo `.rb` es la siguiente:
+The repository consists of 7 directories corresponding to each chapter of the text, each containing a .rb file that stores the codes worked on in that chapter.
+
+The structure in which each .rb file is organized is as follows:
 
 ![Image that shows how the .rb files are composed by a formatted type of comments](others/showingCommentFormat.png)
 
-Se podrá encontrar la sección perteneciente y otras especificaciones que permitan ubicarse de manera rapida en la lectura.
+You will find the corresponding section and other specifications that allow for quick location within the reading.
 
+## Contact information
+If there are any issues with the code or the text, you can open issues on Github or contact via the following emails:
 
-## Información de contacto
-Ante algún problema con el código o el texto, pueden abrirse `issues` en Github o pueden contactarse mediante 
-a los siguientes correos
-
-- mailto:miguel.lopez@utp.edu.co
-- mailto:lemunozg@utp.edu.co
+- mailto: miguel.lopez@utp.edu.co
